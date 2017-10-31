@@ -1,0 +1,57 @@
+[21-Oct-2017 23:09:09 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[21-Oct-2017 23:12:45 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[22-Oct-2017 16:12:25 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[22-Oct-2017 16:36:12 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[22-Oct-2017 17:31:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:33:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:35:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:35:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:37:02 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:37:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 5
+[22-Oct-2017 17:39:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 17:42:50 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 17:47:56 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[22-Oct-2017 17:51:12 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 17:54:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 17:54:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 17:54:28 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[22-Oct-2017 18:55:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/alexa846/public_html/project/addempsrv.php on line 9
+[22-Oct-2017 18:55:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/alexa846/public_html/project/addempsrv.php on line 9
+[22-Oct-2017 18:58:49 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 18:59:04 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:01:38 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/alexa846/public_html/project/delempsrv.php on line 5
+[22-Oct-2017 19:02:47 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/alexa846/public_html/project/delempsrv.php on line 5
+[22-Oct-2017 19:05:56 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:07:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'listemployees' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:07:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'listemployees' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:07:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'listemployees' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:08:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 8
+[22-Oct-2017 19:09:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 8
+[22-Oct-2017 19:09:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'listemployees' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:09:38 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 15
+[22-Oct-2017 19:10:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delempsrv.php on line 8
+[22-Oct-2017 19:13:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/alexa846/public_html/project/edtempsrv.php on line 6
+[25-Oct-2017 13:34:20 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 13:34:59 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:35:02 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:35:38 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:35:58 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:36:39 CST6CDT] PHP Parse error:  syntax error, unexpected ''" . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:36:44 CST6CDT] PHP Parse error:  syntax error, unexpected ''" . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtempclt.php on line 5
+[25-Oct-2017 13:41:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/alexa846/public_html/project/edtempsrv.php on line 11
+[25-Oct-2017 13:48:03 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 13:48:36 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 13:48:56 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:45:13 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:46:05 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:46:07 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:46:10 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:46:59 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:47:02 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alexa846/public_html/project/liststock.php on line 21
+[25-Oct-2017 15:55:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delstocksrv.php on line 7
+[25-Oct-2017 15:56:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delstocksrv.php on line 7
+[25-Oct-2017 15:56:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'Errno' (T_STRING) in /home/alexa846/public_html/project/delstocksrv.php on line 7
+[26-Oct-2017 09:08:25 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/alexa846/public_html/project/addstocksrv.php on line 5
+[26-Oct-2017 09:09:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/alexa846/public_html/project/addstocksrv.php on line 5
+[26-Oct-2017 09:12:50 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtstockclt.php on line 5
+[26-Oct-2017 09:13:26 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $_REQUEST['' (T_CONSTANT_ENCAPSED_STRING) in /home/alexa846/public_html/project/edtstockclt.php on line 5

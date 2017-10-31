@@ -1,0 +1,1 @@
+<a href="listemployees.php">Employees</a> <a href="liststock.php">Stock</a> <a href="listshifts.php">Shifts</a></br>
